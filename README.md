@@ -9,3 +9,18 @@ This is a simple Simon Game, deployed to https://kaiyitan.github.io/Simon-Game/
 3. The pattern will become more and more complex when level up
 4. When you fail to press the button follow the pattern, you lose
 5. Press Any key to restart
+
+An example of Game:
+
+Level 1: Press Red button
+User: Press Red button
+
+Level 2: Press Blue button
+User: Press Red button, then Blue button
+
+Level 3: Press Blue button
+User: Press Red button, then Blue button, then Blue button
+
+Level 4: Press Yellow button
+User: Press Red button, then Blue button, then Blue button, then Green button 
+User LOSE!
